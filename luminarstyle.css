@@ -1,15 +1,16 @@
-        .text {
-            color: white;
-            font-size: normal;
-            text-align: center;
-            font-weight: lighter;
-            margin-bottom: 0.75%;
-        }
-        
-        .pic {
-            margin-left: -70px;
-        }
-        
-        .text1 {
-            text-align: center;
-        }
+.text {
+    color: white;
+    font-size: normal;
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: 0.75%;
+}
+
+.pic {
+    margin-left: -70px;
+}
+
+.text1 {
+    text-align: center;
+    font-weight: bold;
+}
